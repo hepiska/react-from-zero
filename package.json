@@ -4,6 +4,8 @@
   "description": "configuration react from 0",
   "main": "index.js",
   "scripts": {
+    "start": "webpack --mode=development",
+    "build": "webpack --mode=production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/hepiska/react-from-zero/issues"
   },
-  "homepage": "https://github.com/hepiska/react-from-zero#readme"
+  "homepage": "https://github.com/hepiska/react-from-zero#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0"
+  }
 }
