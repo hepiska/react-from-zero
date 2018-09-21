@@ -1,0 +1,24 @@
+{
+  "name": "react-from-zero",
+  "version": "0.0.1",
+  "description": "configuration react from 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hepiska/react-from-zero.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "babel"
+  ],
+  "author": "hepiska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hepiska/react-from-zero/issues"
+  },
+  "homepage": "https://github.com/hepiska/react-from-zero#readme"
+}
